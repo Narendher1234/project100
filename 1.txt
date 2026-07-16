@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 story 2
 {
 project is completed by the narendher
+=======
+story 1
+{
+project started for the 
+Narendher
+story1 is completed
+>>>>>>> Stashed changes
 }
